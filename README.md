@@ -1,5 +1,5 @@
 # darpa-project
-###DARPA
+###DARPA###
 
 **CVR Data Asset Repository Platform Agnostic**
 
@@ -9,10 +9,10 @@
 Even mean?
 
 -* Boardroom decisions today
-rely heavily on data
+rely heavily on data*
 
 -* Artificial Intelligence uses
-data
+data*
 
 -* It is important to understand
-The value chain of data
+The value chain of data*
